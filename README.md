@@ -8,4 +8,3 @@ Ce dépôt est pensé pour pratiquer les fondamentaux, structurer ses connaissan
 - Centraliser les **slides** et documents utiles (PDF, schémas)
 - Fournir des **notebooks Databricks** prêts à exécuter (Free Edition compatible)
 - Appuyer la **préparation à la certification** via des cas concrets
-- Structurer un vrai projet de révision autour du modèle **Bronze / Silver / Gold**
